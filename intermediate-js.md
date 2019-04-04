@@ -1,4 +1,4 @@
-# Week 2 Assessment
+# Intermediate Javascript Assessments
 
 ### Without using Google answer the following:
 
