@@ -70,7 +70,7 @@ var ourString = "Hello Learn Students!"
 
 var middleLetters1 = "hello"
 // Expected output: “l”
-var middleLetters2 = "lamas"
+var middleLetters2 = "llama"
 // Expected output: “am”
 
 
