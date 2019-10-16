@@ -38,12 +38,12 @@ console.log()
 console.log()
 
 
-// 4. Write a function that takes one argument of type array and returns the contents of that array in reverse order.
+// 4. Write a function that takes in an array and returns an array in reverse order.
 
 var originalArray1 = [1, 2, 3, 4, 5, 6, 7]
 // Expected output: [7, 6, 5, 4, 3, 2, 1],
-var originalArray2 = ["a", "t", "l", "e", "d"]
-// Expected output: ["d", "e", "l", "t", "a"]
+var originalArray2 = ["9", "1", "o", "h", "c", "e"]
+// Expected output: ["e", "c", "h", "o", "1", "9"]
 
 
 
@@ -70,8 +70,8 @@ var ourString = "Hello Learn Students!"
 
 var middleLetters1 = "hello"
 // Expected output: “l”
-var middleLetters2 = "llama"
-// Expected output: “am”
+var middleLetters2 = "rhinoceros"
+// Expected output: “oc”
 
 
 
@@ -95,7 +95,7 @@ var myCar = {
 
 
 
-// 10. Stretch: Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
+// 10. STRETCH: Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
 
 var numbersToAdd1 = [2, 4, 45, 9]
 // Excpected output: [2, 6, 51, 60]

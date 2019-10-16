@@ -75,7 +75,7 @@ Answer the following questions. First, without external resources. Challenge you
   Researched answer:
 
 
-### Stretch: The following questions are potential interview questions. First, try to answer each question on your own then Google the answer to further your knowledge.
+### STRETCH: The following questions are potential interview questions. First, try to answer each question on your own then Google the answer to further your knowledge.
 
 1. What is front end development? Can you identify any tools/skills that are uniquely required of front end developers?
 
