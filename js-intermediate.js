@@ -42,8 +42,8 @@ console.log()
 
 var originalArray1 = [1, 2, 3, 4, 5, 6, 7]
 // Expected output: [7, 6, 5, 4, 3, 2, 1],
-var originalArray2 = ["9", "1", "o", "h", "c", "e"]
-// Expected output: ["e", "c", "h", "o", "1", "9"]
+var originalArray2 = ["9", "1", "a", "h", "p", "l", "a"]
+// Expected output: ["a", "l", "p", "h", "a", "1", "9"]
 
 
 

@@ -1,6 +1,12 @@
 // ASSESSMENT 3: INTERMEDIATE JAVASCRIPT TESTING
 // Coding practical questions
 
+// To run tests in this file add jest to the directory:
+  // 1) running `npm -g install yarn` to add the ability to run yarn commands
+  // 2) `yarn add jest`
+  // 3) `yarn jest` to run the testing suite
+
+
 // 1. Write the code that would make this test pass.
 
 describe("multTwo", () => {
