@@ -27,14 +27,18 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 4. What is the difference between a HTML div and a span?
-
+ 
   Your answer:
 
   Researched answer:
 
+5. What is React.Fragment and why would you want to use it?
+  
+  Your answer:
+  
+  Researched answer:
 
-
-5. What are three options for creating responsive design?
+6. What are three options for creating responsive design?
 
   Your answer:
 
