@@ -52,3 +52,4 @@ Answer the following questions. First, without external resources. Challenge you
 - Instance variable
 - Ruby hash
 - Class relationships
+- Getter and Setter methods in Ruby
