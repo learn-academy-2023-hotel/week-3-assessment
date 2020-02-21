@@ -32,11 +32,15 @@ Answer the following questions. First, without external resources. Challenge you
 
   Researched answer:
 
+
+
 5. What is React.Fragment and why would you want to use it?
   
   Your answer:
   
   Researched answer:
+
+
 
 6. What are three options for creating responsive design?
 
