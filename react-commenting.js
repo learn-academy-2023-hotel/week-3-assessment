@@ -1,6 +1,6 @@
 // ASSESSMENT 3: React Commenting Challenge
 // Add comments to the React Robot Listening Challenge
-// Explain the function of the code directly below the 10 comment tags
+// Explain the purpose and functionality of the code directly below the 10 comment tags
 
 
 // App.js
