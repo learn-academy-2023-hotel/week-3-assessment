@@ -1,4 +1,4 @@
-# Week 3 Assessment
+# Assessment for Week 3
 
 - Assessment should be accessed through GitHub Classroom
 - Clone Assessment
