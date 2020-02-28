@@ -1,4 +1,4 @@
-# Assessments for Intermediate Javascript
+# Week 3 Assessment
 
 - Assessment should be accessed through GitHub Classroom
 - Clone Assessment
