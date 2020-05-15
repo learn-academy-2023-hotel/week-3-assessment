@@ -10,7 +10,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-2. What are the three arguments that .map() can accept?
+2. What are the three arguments that .map() and .filter() can accept?
 
   Your answer:
 
@@ -27,7 +27,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 4. What is the difference between a HTML div and a span?
- 
+
   Your answer:
 
   Researched answer:
@@ -35,9 +35,9 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 5. What is React.Fragment and why would you want to use it?
-  
+
   Your answer:
-  
+
   Researched answer:
 
 

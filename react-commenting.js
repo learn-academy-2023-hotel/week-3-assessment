@@ -15,7 +15,7 @@ class App extends Component{
 
   robot = (e) => {
     // 2.
-    this.setState({ userInput: e.target.value})
+    this.setState({ userInput: e.target.value })
   }
 
   render(){
