@@ -10,7 +10,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-2. What are the three arguments that .map() and .filter() can accept?
+2. What is a DOM event?
 
   Your answer:
 
@@ -34,7 +34,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-5. What is React.Fragment and why would you want to use it?
+5. What is React.Fragment (or <>) and why would you want to use it?
 
   Your answer:
 
@@ -54,6 +54,6 @@ Answer the following questions. First, without external resources. Challenge you
 - Object oriented programming
 - irb
 - Instance variable
-- Ruby hash
+- Ruby
 - Class relationships
 - Getter and Setter methods in Ruby
