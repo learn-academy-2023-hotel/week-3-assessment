@@ -1,6 +1,11 @@
 # ASSESSMENT 3: Interview Practice Questions
 
-Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.
+Answer the following questions.
+
+First, without external resources. Challenge yourself to answer from memory as if you were in a job interview.
+
+Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
+
 
 1. What is object destructuring?
 
@@ -10,7 +15,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-2. What is a DOM event?
+2. What are React lifecycle methods? Provide three examples.
 
   Your answer:
 
@@ -50,10 +55,43 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
+7. What are props in React?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+8. What is `this` in JavaScript?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+9. STRETCH: What is a ternary operator in JavaScript?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+10. STRETCH: What is an anonymous function in JavaScript?
+
+  Your answer:
+
+  Researched answer:
+
+
+
 ## Looking Ahead: Terms for Next Week
-- Object oriented programming
-- irb
-- Instance variable
 - Ruby
-- Class relationships
-- Getter and Setter methods in Ruby
+- Object oriented programming
+- RSpec
+- Instance variable
+- Ruby blocks
+- Ruby hashes
+- `getter` and `setter` methods in Ruby
