@@ -9,7 +9,7 @@
 // --------------------2) Create a function that takes in an array and returns a new array of only odd numbers sorted from least to greatest.
 
 var fullArr1 = [4, 9, 0, "7", 8, true, "hey", 7, 199, -9, false, "hola"]
-// Expected output: [-9, 9, 7, 199]
+// Expected output: [-9, 7, 9, 199]
 var fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
 // Expected output: [-823, 7, 23]
 
