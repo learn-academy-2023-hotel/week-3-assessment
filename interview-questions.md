@@ -47,7 +47,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-6. What are three options for creating responsive design?
+6. What does it mean to create a responsive web application? What are three options for creating responsive design?
 
   Your answer:
 

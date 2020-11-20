@@ -1,6 +1,7 @@
 // ASSESSMENT 3: React Commenting Challenge
 
 // Add comments to the React Dice Roller Challenge
+
 // Explain the purpose and functionality of the code on the line DIRECTLY below the 10 comment tags
 
 
@@ -20,9 +21,10 @@ import dice5 from '../assets/dice-5.png'
 import dice6 from '../assets/dice-6.png'
 
 class Board extends Component{
+  // 2)
   constructor(props){
     super(props)
-    // 2)
+    // 3)
     this.state = {
       rollImages: [dice1, dice2, dice3, dice4, dice5, dice6],
       currentPic: dice,
@@ -31,21 +33,23 @@ class Board extends Component{
   }
 
   handleRoll = () => {
-    // 3)
-    let { rollImages, diceLog } = this.state
-    let randomNum = Math.ceil(Math.random() * rollImages.length)
     // 4)
-    let newRoll = rollImages[randomNum]
+    let { rollImages, diceLog } = this.state
     // 5)
+    let randomNum = Math.ceil(Math.random() * rollImages.length)
+    let newRoll = rollImages[randomNum]
+    // 6)
     this.setState({ currentPic: newRoll, diceLog: [... diceLog, newRoll] })
   }
 
+  // 7)
   render(){
     const { currentPic, diceLog } = this.state
     return(
       <div id="board-container">
-        // 6)
+        // 8)
         <Dice
+          // 9)
           roll={ this.handleRoll }
           currentPic={ currentPic }
         />
@@ -57,33 +61,5 @@ class Board extends Component{
   }
 }
 
+// 10)
 export default Board
-
-
-
-// src/component/Dice.js
-
-import React, { Component } from 'react'
-
-class Dice extends Component{
-  // 7)
-  render(){
-    // 8)
-    const { currentPic, roll } = this.props
-    return(
-      <div id="dice-container">
-        <h2>Click to Roll</h2>
-        <img
-          id="dice-img"
-          // 9)
-          alt="images of dice"
-          // 10)
-          src={ currentPic }
-          onClick={ roll }
-        />
-      </div>
-    )
-  }
-}
-
-export default Dice
