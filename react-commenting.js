@@ -2,15 +2,15 @@
 
 // Add comments to the React Dice Roller Challenge
 
-// Explain the purpose and functionality of the code on the line DIRECTLY below the 10 comment tags
+// Explain the purpose and functionality of the code on the line DIRECTLY BELOW the 10 comment tags
 
 
 // src/App.js
 
 import React, { Component } from 'react'
 // 1)
-import Dice from './Dice'
-import Log from './Log'
+import Dice from '.components/Dice'
+import Log from '.components/Log'
 
 import dice from '../assets/dice.png'
 import dice1 from '../assets/dice-1.png'
