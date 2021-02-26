@@ -39,7 +39,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. What is React.Fragment (or <>) and why would you want to use it?
+5. What is a React Fragment (or <>) and why would you want to use it?
 
   Your answer:
 
@@ -47,7 +47,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-6. What does it mean to create a responsive web application? What are three options for creating responsive design?
+6. What does it mean to create a responsive UI? What are three options for creating responsive design?
 
   Your answer:
 
@@ -94,4 +94,3 @@ Then, research the question to expand on your answer. Even if you feel you have 
 - Instance variable
 - Ruby blocks
 - Ruby hashes
-- `getter` and `setter` methods in Ruby
