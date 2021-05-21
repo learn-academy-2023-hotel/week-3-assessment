@@ -7,7 +7,7 @@ First, without external resources. Challenge yourself to answer from memory as i
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
 
-1. What is object destructuring?
+1. What are React lifecycle methods? Provide three examples.
 
   Your answer:
 
@@ -15,7 +15,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What are React lifecycle methods? Provide three examples.
+2. What is the difference between a HTML/JSX div and a span?
 
   Your answer:
 
@@ -23,7 +23,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is the difference between a class and an object?
+3. What is a ternary operator in JavaScript?
 
   Your answer:
 
@@ -31,7 +31,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What is the difference between a HTML div and a span?
+4. What are props in React?
 
   Your answer:
 
@@ -39,7 +39,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. What is a React Fragment (or <>) and why would you want to use it?
+5. What is `this` in JavaScript?
 
   Your answer:
 
@@ -47,7 +47,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-6. What does it mean to create a responsive UI? What are three options for creating responsive design?
+6. STRETCH: What is an anonymous function in JavaScript?
 
   Your answer:
 
@@ -55,31 +55,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-7. What are props in React?
-
-  Your answer:
-
-  Researched answer:
-
-
-
-8. What is `this` in JavaScript?
-
-  Your answer:
-
-  Researched answer:
-
-
-
-9. STRETCH: What is a ternary operator in JavaScript?
-
-  Your answer:
-
-  Researched answer:
-
-
-
-10. STRETCH: What is an anonymous function in JavaScript?
+7. STRETCH: What does it mean to create a responsive UI? What are three options for creating responsive design?
 
   Your answer:
 
@@ -88,9 +64,13 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 ## Looking Ahead: Terms for Next Week
-- Ruby
-- Object oriented programming
-- RSpec
-- Instance variable
-- Ruby blocks
-- Ruby hashes
+
+1. Ruby:
+
+2. Object oriented programming:
+
+3. RSpec:
+
+4. Ruby blocks:
+
+5. Ruby hashes:

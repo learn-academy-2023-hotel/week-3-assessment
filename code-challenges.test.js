@@ -53,27 +53,7 @@ var fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
 
 
 
-// --------------------3) Create a function that takes in a string of a single word and returns the middle letter of the word. If the word is an even number of letters, return the two middle letters.
-
-// a) Create a test with expect statements for each of the variables provided.
-
-var middleLetters1 = "alpha"
-// Expected output: “p”
-
-var middleLetters2 = "rhinoceros"
-// Expected output: “oc”
-
-
-
-
-
-// b) Create the function that makes the test pass.
-
-
-
-
-
-// --------------------4) Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
+// --------------------3) Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
 
 // a) Create a test with expect statements for each of the variables provided.
 
