@@ -26,11 +26,7 @@
 
 
 
-
-
 // b) Create the function that makes the test pass.
-
-
 
 
 
@@ -45,11 +41,7 @@ var fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
 // Expected output: [-823, 7, 23]
 
 
-
-
 // b) Create the function that makes the test pass.
-
-
 
 
 
@@ -65,8 +57,6 @@ var numbersToAdd2 = [0, 7, -8, 12]
 
 var numbersToAdd3 = []
 // Expected output: []
-
-
 
 
 

@@ -7,7 +7,7 @@ First, without external resources. Challenge yourself to answer from memory as i
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
 
-1. What are React lifecycle methods? Provide three examples.
+1. What is `this` in JavaScript?
 
   Your answer:
 
@@ -15,7 +15,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What is the difference between a HTML/JSX div and a span?
+2. What is yarn? What file(s) are modified in a React application when you run yarn?
 
   Your answer:
 
@@ -23,7 +23,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is a ternary operator in JavaScript?
+3. What are props in React?
 
   Your answer:
 
@@ -31,7 +31,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What are props in React?
+4. What is JSX?
 
   Your answer:
 
@@ -39,7 +39,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. What is `this` in JavaScript?
+5. What is a DOM event?
 
   Your answer:
 
@@ -54,23 +54,14 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Researched answer:
 
 
-
-7. STRETCH: What does it mean to create a responsive UI? What are three options for creating responsive design?
-
-  Your answer:
-
-  Researched answer:
-
-
-
 ## Looking Ahead: Terms for Next Week
 
-1. Ruby:
+1. Conditional rendering:
 
-2. Object oriented programming:
+2. Ruby:
 
-3. RSpec:
+3. Object oriented programming:
 
-4. Ruby blocks:
+4. Ruby hash:
 
-5. Ruby hashes:
+5. Ruby blocks:

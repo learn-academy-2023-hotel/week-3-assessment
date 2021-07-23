@@ -1,7 +1,6 @@
 <!-- ASSESSMENT 3: React Debugging Challenge -->
 
-<!-- This file contains two React components
- in an HTML file. This React code is broken. Fix the THREE bugs in the code so the user can draw cards and reset the deck. Note: The components are correctly described in this file structure. There is no need to change the architecture of any code. -->
+<!-- This file contains two React components in an HTML file. This React code is broken. Fix the THREE bugs in the code so the user can draw cards and reset the deck. Note: The components are correctly described in this file structure. There is no need to change the architecture of any code. -->
 
 <!-- To see this component, drag the file tab into the browser. -->
 
@@ -26,17 +25,17 @@
         constructor(props){
           super(props)
           this.state = {
-            hand: []
+            hand: [],
+            suit: ["❤️", "♦️", "♠️", "♣️"],
+            rank: ["2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"]
           }
         }
 
         drawCard = () => {
-          const { hand } = this.state
-          let suit = ["❤️", "♦️", "♠️", "♣️"]
-          let rank = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"]
+          const {hand, suit, rank} = this.state
           let draw = `${rank[Math.floor(Math.random() * rank.length)]} ${suit[Math.floor(Math.random() * suit.length)]}`
           if(hand.indexOf(draw) === -1){
-            this.setState({ hand: [...hand, draw] })
+            this.setState({hand: [...hand, draw]})
           } else if(hand.length !== 52){
             this.drawCard()
           } else {
@@ -45,7 +44,7 @@
         }
 
         shuffle = () => {
-          this.setState({ hand: [] })
+          this.setState({hand: []})
         }
 
         // No need to change anything ABOVE this line ^
@@ -54,8 +53,8 @@
             <>
               <h1>Draw a Card</h1>
               <Card
-                drawCard={ this.drawCard }
-                shuffle={ this.shuffle }
+                drawCard={this.drawCard}
+                shuffle={this.shuffle}
               />
             </>
           )
@@ -80,17 +79,17 @@
           }
           return(
             <>
-              <button onClick={ }>
+              <button onClick={}>
                 Click to Draw a Card
               </button>
-              <button onClick={ shuffle }>
+              <button onClick={shuffle}>
                 Return Cards and Shuffle Deck
               </button>
-              <div style={ handStyles }>
-                { this.props.hand.map((card, index) => {
+              <div style={handStyles}>
+                {this.props.hand.map((card, index) => {
                   return (
-                    <div style={ cardStyles } key={ index }>
-                      { card }
+                    <div style={cardStyles} key={index}>
+                      {card}
                     </div>
                   )
                 })}
