@@ -15,7 +15,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What is yarn? What file(s) are modified in a React application when you run yarn?
+2. What is React? Why would you use it?
 
   Your answer:
 
@@ -23,7 +23,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What are props in React?
+3. Which lifecycle method is required in a React class component?
 
   Your answer:
 
@@ -31,7 +31,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What is JSX?
+4. What is JSX? What is one notable difference between HTML and JSX?
 
   Your answer:
 
@@ -39,7 +39,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. What is a DOM event?
+5. What is yarn? What file(s) are modified in a React application when you run yarn?
 
   Your answer:
 
@@ -58,10 +58,10 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. Conditional rendering:
 
-2. Ruby:
+2. Props:
 
-3. Object oriented programming:
+3. JavaScript Events:
 
-4. Ruby hash:
+4. Object oriented programming:
 
-5. Ruby blocks:
+5. Ruby:

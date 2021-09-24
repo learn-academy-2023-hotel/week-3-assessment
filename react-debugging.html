@@ -1,6 +1,6 @@
 <!-- ASSESSMENT 3: React Debugging Challenge -->
 
-<!-- This file contains two React components in an HTML file. This React code is broken. Fix the THREE bugs in the code so the user can draw cards and reset the deck. Note: The components are correctly described in this file structure. There is no need to change the architecture of any code. -->
+<!-- This file contains a React component in an HTML file. This React code is broken. Fix the THREE bugs in the code so the user can draw cards and reset the deck. Note: The component is correctly described in this file structure. There is no need to change the architecture of any code. -->
 
 <!-- To see this component, drag the file tab into the browser. -->
 
@@ -47,24 +47,7 @@
           this.setState({hand: []})
         }
 
-        // No need to change anything ABOVE this line ^
         render(){
-          return(
-            <>
-              <h1>Draw a Card</h1>
-              <Card
-                drawCard={this.drawCard}
-                shuffle={this.shuffle}
-              />
-            </>
-          )
-        }
-      }
-
-      // file: src/components/Card.js
-      class Card extends React.Component{
-        render(){
-          // No need to change the handStyles or cardStyles variables
           let handStyles = {
             display: "flex",
             flexDirection: "row",
@@ -77,8 +60,10 @@
             margin: "10px",
             padding: "10px"
           }
+          // No need to change anything ABOVE this line ^
+          
           return(
-            <>
+              <h1>Draw a Card</h1>
               <button onClick={}>
                 Click to Draw a Card
               </button>
@@ -86,7 +71,7 @@
                 Return Cards and Shuffle Deck
               </button>
               <div style={handStyles}>
-                {this.props.hand.map((card, index) => {
+                {this.state.hand.map((card, index) => {
                   return (
                     <div style={cardStyles} key={index}>
                       {card}
@@ -94,12 +79,9 @@
                   )
                 })}
               </div>
-            </>
           )
         }
       }
-
-
 
       // No need to change anything below this line
       const domContainer = document.querySelector('#react-container')
