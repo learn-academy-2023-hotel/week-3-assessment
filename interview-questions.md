@@ -62,6 +62,6 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. JavaScript Events:
 
-4. Object oriented programming:
+4. Object-oriented programming:
 
 5. Ruby:

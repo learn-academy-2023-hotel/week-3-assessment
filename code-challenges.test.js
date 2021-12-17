@@ -1,4 +1,4 @@
-// ASSESSMENT 3: Coding practical questions with Jest
+// ASSESSMENT 3: Coding Practical Questions with Jest
 
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
@@ -22,9 +22,7 @@
 // Expected output: [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 
 
-
 // b) Create the function that makes the test pass.
-
 
 
 // --------------------2) Create a function that takes in an array and returns a new array of only odd numbers sorted from least to greatest.
@@ -41,7 +39,6 @@ var fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
 // b) Create the function that makes the test pass.
 
 
-
 // --------------------3) Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
 
 // a) Create a test with expect statements for each of the variables provided.
@@ -54,7 +51,6 @@ var numbersToAdd2 = [0, 7, -8, 12]
 
 var numbersToAdd3 = []
 // Expected output: []
-
 
 
 // b) Create the function that makes the test pass.
