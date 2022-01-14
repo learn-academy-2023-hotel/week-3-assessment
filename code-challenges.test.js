@@ -29,10 +29,10 @@
 
 // a) Create a test with expect statements for each of the variables provided.
 
-var fullArr1 = [4, 9, 0, "7", 8, true, "hey", 7, 199, -9, false, "hola"]
+const fullArr1 = [4, 9, 0, "7", 8, true, "hey", 7, 199, -9, false, "hola"]
 // Expected output: [-9, 7, 9, 199]
 
-var fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
+const fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
 // Expected output: [-823, 7, 23]
 
 
@@ -43,13 +43,13 @@ var fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
 
 // a) Create a test with expect statements for each of the variables provided.
 
-var numbersToAdd1 = [2, 4, 45, 9]
+const numbersToAdd1 = [2, 4, 45, 9]
 // Excpected output: [2, 6, 51, 60]
 
-var numbersToAdd2 = [0, 7, -8, 12]
+const numbersToAdd2 = [0, 7, -8, 12]
 // Expected output: [0, 7, -1, 11]
 
-var numbersToAdd3 = []
+const numbersToAdd3 = []
 // Expected output: []
 
 
