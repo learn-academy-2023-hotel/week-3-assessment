@@ -58,10 +58,10 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. Conditional rendering:
 
-2. Props:
+2. Object-oriented programming:
 
-3. JavaScript Events:
+3. Ruby:
 
-4. Object-oriented programming:
+4. Ruby blocks:
 
-5. Ruby:
+5. Ruby hashes:

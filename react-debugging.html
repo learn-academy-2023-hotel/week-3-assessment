@@ -32,7 +32,7 @@
         }
 
         drawCard = () => {
-          const {hand, suit, rank} = this.state
+          const { hand, suit, rank } = this.state
           let draw = `${rank[Math.floor(Math.random() * rank.length)]} ${suit[Math.floor(Math.random() * suit.length)]}`
           if(hand.indexOf(draw) === -1){
             this.setState({hand: [...hand, draw]})
@@ -63,22 +63,22 @@
           // No need to change anything ABOVE this line ^
 
           return(
-              <h1>Draw a Card</h1>
-              <button onClick={}>
-                Click to Draw a Card
-              </button>
-              <button onClick={shuffle}>
-                Return Cards and Shuffle Deck
-              </button>
-              <div style={handStyles}>
-                {this.state.hand.map((card, index) => {
-                  return (
-                    <div style={cardStyles} key={index}>
-                      {card}
-                    </div>
-                  )
-                })}
-              </div>
+            <h1>Draw a Card</h1>
+            <button onClick={}>
+              Click to Draw a Card
+            </button>
+            <button onClick={shuffle}>
+              Return Cards and Shuffle Deck
+            </button>
+            <div style={handStyles}>
+              {this.state.hand.map((card, index) => {
+                return (
+                  <div style={cardStyles} key={index}>
+                    {card}
+                  </div>
+                )
+              })}
+            </div>
           )
         }
       }
