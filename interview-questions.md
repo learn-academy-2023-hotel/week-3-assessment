@@ -31,7 +31,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What is JSX? What is one notable difference between HTML and JSX?
+4. What is JSX? What is one syntax difference between HTML and JSX?
 
   Your answer:
 

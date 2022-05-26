@@ -15,10 +15,10 @@
 
 // a) Create a test with expect statements for each of the variables provided.
 
-// Example input: 6
+const fibLength1 = 6
 // Expected output: [1, 1, 2, 3, 5, 8]
 
-// Example input: 10
+const fibLength2 = 10
 // Expected output: [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 
 
