@@ -21,8 +21,8 @@
 
 
       // file: src/App.js
-      class App extends React.Component{
-        constructor(props){
+      class App extends React.Component {
+        constructor(props) {
           super(props)
           this.state = {
             hand: [],
@@ -34,9 +34,9 @@
         drawCard = () => {
           const { hand, suit, rank } = this.state
           let draw = `${rank[Math.floor(Math.random() * rank.length)]} ${suit[Math.floor(Math.random() * suit.length)]}`
-          if(hand.indexOf(draw) === -1){
+          if(hand.indexOf(draw) === -1) {
             this.setState({hand: [...hand, draw]})
-          } else if(hand.length !== 52){
+          } else if(hand.length !== 52) {
             this.drawCard()
           } else {
             alert("All cards have been dealt.")
