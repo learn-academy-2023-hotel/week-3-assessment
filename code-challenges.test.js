@@ -44,7 +44,7 @@ const fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
 // a) Create a test with expect statements for each of the variables provided.
 
 const numbersToAdd1 = [2, 4, 45, 9]
-// Excpected output: [2, 6, 51, 60]
+// Expected output: [2, 6, 51, 60]
 
 const numbersToAdd2 = [0, 7, -8, 12]
 // Expected output: [0, 7, -1, 11]

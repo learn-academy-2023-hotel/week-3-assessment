@@ -6,61 +6,49 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
+1. What is JSX? What is one syntax difference between HTML and JSX?
 
-1. What is `this` in JavaScript?
+Your answer:
 
-  Your answer:
+Researched answer:
 
-  Researched answer:
+2. What is yarn? What file(s) are modified in a React application when you run yarn?
 
+Your answer:
 
+Researched answer:
 
-2. What is React? Why would you use it?
+3. What is an anonymous function in JavaScript?
 
-  Your answer:
+Your answer:
 
-  Researched answer:
+Researched answer:
 
+4. What is the difference between a class and an object?
 
+Your answer:
 
-3. Which lifecycle method is required in a React class component?
+Researched answer:
 
-  Your answer:
+5. What is the difference between state and props in React?
 
-  Researched answer:
+Your answer:
 
+Researched answer:
 
+6. STRETCH: Which is the difference between a div and a span?
 
-4. What is JSX? What is one syntax difference between HTML and JSX?
+Your answer:
 
-  Your answer:
-
-  Researched answer:
-
-
-
-5. What is yarn? What file(s) are modified in a React application when you run yarn?
-
-  Your answer:
-
-  Researched answer:
-
-
-
-6. STRETCH: What is an anonymous function in JavaScript?
-
-  Your answer:
-
-  Researched answer:
-
+Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering:
+1. Object-oriented programming:
 
-2. Object-oriented programming:
+2. Ruby:
 
-3. Ruby:
+3. Implicit return:
 
 4. Ruby blocks:
 
