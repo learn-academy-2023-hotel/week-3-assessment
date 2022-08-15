@@ -25,14 +25,24 @@ const fibLength2 = 10
 // b) Create the function that makes the test pass.
 
 
-// --------------------2) Create a function that takes in an array and returns a new array of only odd numbers sorted from least to greatest.
+// --------------------2) Create a function that takes in an object and returns a new array of only odd numbers sorted from least to greatest. Check out the tools [Object.values()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values) and [Array.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 
 // a) Create a test with expect statements for each of the variables provided.
 
-const fullArr1 = [4, 9, 0, "7", 8, true, "hey", 7, 199, -9, false, "hola"]
+const fullObj1 = {
+                   arr1: [4, 9, 0, "7", 8,],
+                   bool: true, 
+                   string: "hey",
+                   arr2: [7, 199, -9, false, "hola"]
+                 }
 // Expected output: [-9, 7, 9, 199]
 
-const fullArr2 = ["hello", 7, 23, -823, false, 78, null, "67", 6, "number"]
+const fullObj2 = {
+                   string: "hello", 
+                   arr3: [7, 23, -823, false, 78], 
+                   nothin: null, 
+                   arr4: ["67", 6, "number"]
+                 }
 // Expected output: [-823, 7, 23]
 
 
