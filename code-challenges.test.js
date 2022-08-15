@@ -25,7 +25,9 @@ const fibLength2 = 10
 // b) Create the function that makes the test pass.
 
 
-// --------------------2) Create a function that takes in an object and returns a new array of only odd numbers sorted from least to greatest. Check out the tools [Object.values()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values) and [Array.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
+// --------------------2) Create a function that takes in an object and returns a new array of only odd numbers sorted from least to greatest. Check out the tools 
+// - Object.values() https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values
+// - Array.flat() https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat
 
 // a) Create a test with expect statements for each of the variables provided.
 
