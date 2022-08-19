@@ -30,7 +30,7 @@ Your answer:
 
 Researched answer:
 
-5. What is the difference between state and props in React?
+5. What is the difference between state values and props in React?
 
 Your answer:
 
