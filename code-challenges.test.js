@@ -32,18 +32,14 @@ const fibLength2 = 10
 // a) Create a test with expect statements for each of the variables provided.
 
 const fullObj1 = {
-                   arr1: [4, 9, 0, "7", 8,],
-                   bool: true, 
-                   string: "hey",
-                   arr2: [7, 199, -9, false, "hola"]
+                   arr1: [4, 9, 0, "7", true, 8,],
+                   arr2: [7, 199, -9,"hey", false, "hola"]
                  }
 // Expected output: [-9, 7, 9, 199]
 
 const fullObj2 = {
-                   string: "hello", 
-                   arr3: [7, 23, -823, false, 78], 
-                   nothin: null, 
-                   arr4: ["67", 6, "number"]
+                   arr1: ["hello", 7, 23, -823, false, 78], 
+                   arr2: [null, "67", 6, "number"]
                  }
 // Expected output: [-823, 7, 23]
 
