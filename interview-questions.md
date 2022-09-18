@@ -24,13 +24,13 @@ Your answer:
 
 Researched answer:
 
-4. What is the difference between a class and an object?
+4. What is the difference between state values and props in React?
 
 Your answer:
 
 Researched answer:
 
-5. What is the difference between state values and props in React?
+5. What is the DOM?
 
 Your answer:
 

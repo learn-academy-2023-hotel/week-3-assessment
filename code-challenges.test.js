@@ -10,7 +10,6 @@
 // Reminder: The test will call your function
 // Run the file with the following command: $ yarn jest
 
-
 // --------------------1) Create a function that takes in a number (greater than 2) and returns an array that length containing the numbers of the Fibonacci sequence.
 
 // a) Create a test with expect statements for each of the variables provided.
@@ -21,49 +20,48 @@ const fibLength1 = 6
 const fibLength2 = 10
 // Expected output: [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 
-
 // b) Create the function that makes the test pass.
 
-
-// --------------------2) Create a function that takes in an object and returns an array of the numbers sorted from least to greatest. 
+// --------------------2) Create a function that takes in an object and returns an array of the numbers sorted from least to greatest.
 // Hint: Check out this resource: Object.values() https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values
 
 // a) Create a test with expect statements for each of the variables provided.
 
-const fullObj1 = {
-  content1: 7,
-  content2: 199,
-  content3: 78,
-  content4: -7,
-  content5: 42,
+const studyMinutesWeek1 = {
+  sunday: 90,
+  monday: 30,
+  tuesday: 20,
+  wednesday: 15,
+  thursday: 30,
+  friday: 15,
+  saturday: 60
 }
-// Expected output: [-7, 7, 42, 78, 199]
+// Expected output: [15, 15, 20, 30, 30, 60, 90]
 
-const fullObj2 = {
-  content1: 23,
-  content2: 772,
-  content3: -3,
-  content4: 6,
-  content5: 71,
+const studyMinutesWeek2 = {
+  sunday: 100,
+  monday: 10,
+  tuesday: 45,
+  wednesday: 60,
+  thursday: 20,
+  friday: 15,
+  saturday: 65
 }
-// Expected output: [-3, 6, 23, 71, 772]
-
+// Expected output: [10, 15, 20, 45, 60, 65, 100]
 
 // b) Create the function that makes the test pass.
-
 
 // --------------------3) Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
 
 // a) Create a test with expect statements for each of the variables provided.
 
-const numbersToAdd1 = [2, 4, 45, 9]
-// Expected output: [2, 6, 51, 60]
+const accountTransactions1 = [100, -17, -23, -9]
+// Expected output: [100, 83, 60, 51]
 
-const numbersToAdd2 = [0, 7, -8, 12]
-// Expected output: [0, 7, -1, 11]
+const accountTransactions2 = [250, -89, 100, -96]
+// Expected output: [250, 161, 261, 165]
 
-const numbersToAdd3 = []
+const accountTransactions3 = []
 // Expected output: []
-
 
 // b) Create the function that makes the test pass.
