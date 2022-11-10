@@ -22,7 +22,7 @@ const fibLength2 = 10
 
 // b) Create the function that makes the test pass.
 
-// --------------------2) Create a function that takes in an object and returns an array of the numbers sorted from least to greatest.
+// --------------------2) Create a function that takes in an object and returns an array of the values sorted from least to greatest.
 // Hint: Check out this resource: Object.values() https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values
 
 // a) Create a test with expect statements for each of the variables provided.

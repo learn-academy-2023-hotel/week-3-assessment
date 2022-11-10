@@ -12,7 +12,7 @@ Your answer:
 
 Researched answer:
 
-2. What is yarn? What file(s) are modified in a React application when you run yarn?
+2. What is yarn? What file(s) are modified in a React application when you run the command yarn in your terminal?
 
 Your answer:
 
