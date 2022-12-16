@@ -18,7 +18,7 @@ Your answer:
 
 Researched answer:
 
-3. What is an anonymous function in JavaScript?
+3. What is a React component?
 
 Your answer:
 
