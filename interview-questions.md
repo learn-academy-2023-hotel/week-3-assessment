@@ -12,7 +12,7 @@ Your answer:
 
 Researched answer:
 
-2. What is yarn? What file(s) are modified in a React application when you run the command yarn in your terminal?
+1. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
 Your answer:
 
@@ -36,7 +36,7 @@ Your answer:
 
 Researched answer:
 
-6. STRETCH: Which is the difference between a div and a span?
+6. STRETCH: Which is the difference between a div tag and a span tag?
 
 Your answer:
 
