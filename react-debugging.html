@@ -4,7 +4,7 @@
 
 <!-- To see this app render, open the file in your browser by going to file >> open file >> and finding the appropriate file location. -->
 
-<!-- HINT: Check the console in the browser developer tools for errors. The lines numbers may not match up exactly with the line numbers in your text editor. -->
+<!-- HINT: Check the console in the browser developer tools for errors. The lines numbers may not match up exactly with the line numbers in your text editor due to commented out lines. -->
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -36,7 +36,7 @@
         const [hand, setHand] = useState([])
 
         const drawCard = () => {
-          let draw = `${rank[Math.floor(Math.random() * rank.length)]} ${suit[Math.floor(Math.random() * suit.length)]}`
+          const draw = `${rank[Math.floor(Math.random() * rank.length)]} ${suit[Math.floor(Math.random() * suit.length)]}`
           if(hand.indexOf(draw) === -1) {
             setHand([...hand, draw])
           } else if(hand.length !== 52) {
