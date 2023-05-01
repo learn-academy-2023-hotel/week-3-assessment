@@ -2,12 +2,16 @@
 
 ### ✅ Completed Files
 
-Mark the following as confirmation that the files in this repository are complete.
+Select the following as confirmation that the files in this repository are complete.
 
 - [ ] Coding Challenges
+- [ ] Coding Concepts
 - [ ] Interview Questions
-- [ ] React Debugging
+
+### ✋ Reminder
+
+Do NOT merge your assessment!
 
 ### 📝 Feedback
 
-If you would like specific feedback on a particular problem please leave details here:
+If you would like specific feedback please leave details here:

@@ -22,6 +22,8 @@ const fibLength2 = 10
 
 // b) Create the function that makes the test pass.
 
+// Pseudo code:
+
 // --------------------2) Create a function that takes in an object and returns an array of the values sorted from least to greatest.
 // Hint: Check out this resource: Object.values() https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values
 
@@ -51,6 +53,8 @@ const studyMinutesWeek2 = {
 
 // b) Create the function that makes the test pass.
 
+// Pseudo code:
+
 // --------------------3) Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
 
 // a) Create a test with expect statements for each of the variables provided.
@@ -65,3 +69,5 @@ const accountTransactions3 = []
 // Expected output: []
 
 // b) Create the function that makes the test pass.
+
+// Pseudo code:
