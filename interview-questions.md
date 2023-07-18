@@ -12,7 +12,7 @@ Your answer:
 
 Researched answer:
 
-1. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
+2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
 Your answer:
 
