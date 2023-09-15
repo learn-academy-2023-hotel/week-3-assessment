@@ -6,6 +6,8 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
+Type your initials here to confirm you read the instructions:
+
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
 Your answer:
@@ -18,25 +20,19 @@ Your answer:
 
 Researched answer:
 
-3. What is a React component?
+3. What is the difference between state values and props in React?
 
 Your answer:
 
 Researched answer:
 
-4. What is the difference between state values and props in React?
+4. What is the DOM?
 
 Your answer:
 
 Researched answer:
 
-5. What is the DOM?
-
-Your answer:
-
-Researched answer:
-
-6. STRETCH: Which is the difference between a div tag and a span tag?
+5. STRETCH: Which is the difference between a div tag and a span tag?
 
 Your answer:
 
@@ -48,8 +44,4 @@ Researched answer:
 
 2. Ruby:
 
-3. Implicit return:
-
-4. Ruby blocks:
-
-5. Ruby hashes:
+3. Ruby blocks:

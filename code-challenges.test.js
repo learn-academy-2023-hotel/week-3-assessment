@@ -10,14 +10,14 @@
 // Reminder: The test will call your function
 // Run the file with the following command: $ yarn jest
 
-// --------------------1) Create a function that takes in a number (greater than 2) and returns an array that length containing the numbers of the Fibonacci sequence.
+// --------------------1) Create a function that takes in a number (greater than 2) and returns an array containing the Fibonacci sequence. The length of the array is determined by the argument of the function.
 
 // a) Create a test with expect statements for each of the variables provided.
 
-const fibLength1 = 6
+const fibonacciLength1 = 6
 // Expected output: [1, 1, 2, 3, 5, 8]
 
-const fibLength2 = 10
+const fibonacciLength2 = 10
 // Expected output: [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 
 // b) Create the function that makes the test pass.
