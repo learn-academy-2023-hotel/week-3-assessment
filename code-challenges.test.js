@@ -10,7 +10,7 @@
 // Reminder: The test will call your function
 // Run the file with the following command: $ yarn jest
 
-// --------------------1) Create a function that takes in a number (greater than 2) and returns an array containing the Fibonacci sequence. The length of the array is determined by the argument of the function.
+// --------------------1) Prompt: Create a function that takes in a number (greater than 2) and returns an array containing the Fibonacci sequence. The length of the array is determined by the argument of the function.
 
 // a) Create a test with expect statements for each of the variables provided.
 
@@ -24,8 +24,8 @@ const fibonacciLength2 = 10
 
 // Pseudo code:
 
-// --------------------2) Create a function that takes in an object and returns an array of the values sorted from least to greatest.
-// Hint: Check out this resource: Object.values() https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values
+// --------------------2) For the following prompt, use ChatGPT or an equivalent AI tool to help you solve the problem. The prompt will require the use of a JavaScript method called Object.values()
+// Prompt: Create a function that takes in an object and returns an array of the object's values sorted from least to greatest.
 
 // a) Create a test with expect statements for each of the variables provided.
 
@@ -50,23 +50,6 @@ const studyMinutesWeek2 = {
   saturday: 65
 }
 // Expected output: [10, 15, 20, 45, 60, 65, 100]
-
-// b) Create the function that makes the test pass.
-
-// Pseudo code:
-
-// --------------------3) Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
-
-// a) Create a test with expect statements for each of the variables provided.
-
-const accountTransactions1 = [100, -17, -23, -9]
-// Expected output: [100, 83, 60, 51]
-
-const accountTransactions2 = [250, -89, 100, -96]
-// Expected output: [250, 161, 261, 165]
-
-const accountTransactions3 = []
-// Expected output: []
 
 // b) Create the function that makes the test pass.
 

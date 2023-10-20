@@ -6,8 +6,6 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-Type your initials here to confirm you read the instructions:
-
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
 Your answer:
@@ -26,22 +24,14 @@ Your answer:
 
 Researched answer:
 
-4. What is the DOM?
-
-Your answer:
-
-Researched answer:
-
-5. STRETCH: Which is the difference between a div tag and a span tag?
-
-Your answer:
+4. STRETCH: Which is the difference between a div tag and a span tag?
 
 Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-1. Object-oriented programming:
+1. DOM: 
 
-2. Ruby:
+2. Object-oriented programming:
 
-3. Ruby blocks:
+3. Ruby:
